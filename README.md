@@ -15,6 +15,11 @@ From the project directory, start the application with the Gradle wrapper:
 
 The service starts at `http://localhost:8080`.
 
+## Swagger UI
+
+Open http://localhost:8080/swagger-ui/index.html explore and call the API.
+
+
 ## Run tests
 
 ```powershell
